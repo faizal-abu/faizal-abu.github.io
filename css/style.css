@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #4acaa4;
+}
+
+#gears {
+  background-color: #4acaa4;
+}
+
+.fas.fa-heart {
+  color: red;
+}
+
+section {
+  padding-top: 5rem;
+}
